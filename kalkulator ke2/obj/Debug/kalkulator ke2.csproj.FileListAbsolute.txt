@@ -1,0 +1,11 @@
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\bin\Debug\kalkulator ke2.exe.config
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\bin\Debug\kalkulator ke2.exe
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\bin\Debug\kalkulator ke2.pdb
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.csproj.AssemblyReference.cache
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.csproj.SuggestedBindingRedirects.cache
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator_ke2.Form1.resources
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator_ke2.Properties.Resources.resources
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.csproj.GenerateResource.cache
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.csproj.CoreCompileInputs.cache
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.exe
+C:\devc++\c#\mengulang1\kalkulator ke2\kalkulator ke2\obj\Debug\kalkulator ke2.pdb
